@@ -34,7 +34,26 @@ This dataset comprises credit card transactions conducted by European cardholder
 
 🏠 [Credit Card Fraud Dataset on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
 
-## ❓Questions
+## ❓Questions for Analysis
+
+### 1. What is the distribution of transaction amounts in fraudulent vs. legitimate transactions?
+
+Consider examining how transaction amounts differ between fraudulent and legitimate transactions.
+
+### 2. Are there specific time patterns when fraudulent transactions are more likely to occur?
+
+Analyze the timestamp data to identify any time patterns associated with fraudulent transactions.
+
+### 3. Do certain anonymized features (V1-V28) have a stronger correlation with fraud?
+
+Explore the correlation between the anonymized features (V1-V28) and the occurrence of fraud.
+
+### 4. Can you identify any geographical patterns in fraud occurrences based on transaction attributes?
+
+Investigate whether location-related attributes (if available) exhibit patterns in fraud occurrences.
+
+### 5. Are there any common trends or characteristics shared among fraudulent transactions in this dataset?
+
 
 ## 📊Results
 
