@@ -32,7 +32,7 @@ This dataset comprises credit card transactions conducted by European cardholder
 
 ## 🏠 Dataset Link
 
-🏠 [Credit Card Fraud Dataset on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
+[Credit Card Fraud Dataset on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
 
 ## ❓Questions for Analysis
 
@@ -59,8 +59,9 @@ Investigate whether location-related attributes (if available) exhibit patterns 
 
 ## 📓 Authors
 
-
 ## 🚀 About Me
+
+## 🌟References
 
 
 
