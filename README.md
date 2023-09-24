@@ -2,7 +2,7 @@
 
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge)](https://jupyter.org/)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge)](https://www.python.org/)
-[![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-orange?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-green?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/fursuf1/Credit-Card-Fraud-Detection)
 [![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=for-the-badge)](https://code.visualstudio.com/)
 
