@@ -1,0 +1,25 @@
+Data clean-up:
+
+- Check for nulls
+- Check for duplicates
+
+EDA:
+
+- Histograms of the whole dataset
+- One set of histograms for the dataset with only valid transactions
+- One set of histograms for the dataset with only fraudulent transactions
+- Scatter-plots each feature VS Class
+- Correlation heat map
+
+Modeling:
+
+- Logistic regression (also explain why it may not work due to multiple features having collinearity)
+	- Try test sets at different sizes? (0.2, 0.1, 0.05)
+	- Plot heat map of confusion matrix
+	- Calculate accuracy, error rate, sensitivity and specificity, etc
+- Scale the data using standard scaler
+	- Try K-means clustering?
+- RoC curve?
+
+Presentation:
+
