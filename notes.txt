@@ -23,3 +23,9 @@ Modeling:
 
 Presentation:
 
+- Briefly explain question being asked, then how we're modeling to answer it
+- Include graphs from EDA to show some visual differences between transactions that is valid and transactions that are fraudulent
+- Also show visualization of heat map of correlation matrix
+- Briefly explain classification methods used
+- Show heat map of confusion matrix and accuracy results (i.e. specificity, recall, etc) and explain what they mean
+- Conclude and talk about potential work in future (using advanced DS methods like gradient boost, random forest, decision trees, etc)
