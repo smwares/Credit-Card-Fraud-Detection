@@ -13,7 +13,9 @@ EDA:
 
 Modeling:
 
+- Objective should be reduce the false positive rate (i.e. model mistakenly thinking a fraudulent transaction is legitimate)
 - Logistic regression (also explain why it may not work due to multiple features having collinearity)
+	- Using Newton-CG as the solver gave better results than liblinear
 	- Try test sets at different sizes? (0.2, 0.1, 0.05)
 	- Plot heat map of confusion matrix
 	- Calculate accuracy, error rate, sensitivity and specificity, etc
