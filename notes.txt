@@ -31,3 +31,12 @@ Presentation:
 - Briefly explain classification methods used
 - Show heat map of confusion matrix and accuracy results (i.e. specificity, recall, etc) and explain what they mean
 - Conclude and talk about potential work in future (using advanced DS methods like gradient boost, random forest, decision trees, etc)
+
+Additional notes to look into:
+
+hyper-parameter
+XG boost, random forest, decision trees
+cross-validation
+grid-search
+PCA
+binary classification histograms
