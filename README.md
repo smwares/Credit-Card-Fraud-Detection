@@ -88,6 +88,10 @@ These questions, along with the specified methods, will help uncover valuable in
 
 ## 📓 Authors
 
+- [@smwares](https://github.com/smwares)
+
+- [@fursuf1](https://github.com/fursuf1)
+
 ## 🚀 About Me
 
 ## 🌟References
