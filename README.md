@@ -1,6 +1,6 @@
 # 💳Credit Card Fraud Detection
 
-[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge)](https://jupyter.org/)
+[![Made with Google Colab](https://img.shields.io/badge/Made%20with-Google%20Colab-orange?style=for-the-badge)](https://colab.research.google.com/)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge)](https://www.python.org/)
 [![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-green?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/fursuf1/Credit-Card-Fraud-Detection)
@@ -49,12 +49,9 @@ The dataset is meticulously prepared, with no missing values, ensuring the integ
 This data preparation provides a reliable foundation for our analysis of fraudulent activities within credit card transactions.
 
 
-
-
-
 ## 🏠 Dataset Link
 
-[Credit Card Fraud Dataset on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
+[Credit Card Fraud Dataset on Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 ## ❓Questions for Analysis
 
