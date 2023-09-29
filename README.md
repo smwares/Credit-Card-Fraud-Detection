@@ -6,28 +6,34 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/fursuf1/Credit-Card-Fraud-Detection)
 [![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=for-the-badge)](https://code.visualstudio.com/)
 
-## 🚧Project Overview
+## 📊🚧Project Overview
 
-This project aims to delve into the intricacies of credit card fraud detection by exploring two critical aspects:
-
-Merchant Category Analysis: In this segment, we will thoroughly examine the relationship between different merchant categories and instances of fraud. By dissecting transaction data across various merchant types, we seek to uncover patterns and insights that can help identify high-risk categories.
-
-Transaction Type Analysis: We will conduct a comprehensive analysis to determine if certain transaction types are more vulnerable to fraudulent activities compared to others. By scrutinizing transaction attributes such as payment methods, transaction amounts, and more, we aim to shed light on potential risk factors.
-
-By addressing these aspects, our project endeavors to contribute valuable knowledge to the field of credit card fraud detection, ultimately enhancing the security measures employed by financial institutions and cardholders.
+In this analysis, we delve into the Credit Card Transactions Fraud Detection Dataset. Our primary goal is to conduct exploratory data analysis (EDA) to identify essential features associated with fraudulent activities. Subsequently, we will employ forecasting techniques using various charts and graphs to gain insights from the data and predict trends. Additionally, we will evaluate the effectiveness of our forecasting in detecting fraud. To ensure a seamless presentation of our insights, we will construct an interactive dashboard, providing a comprehensive view of credit card transaction fraud detection.
 
 ## 📈About the Dataset
 
 ### 📝 Description
+This dataset provides a comprehensive log of credit card transactions spanning from January 1st, 2019, to December 31st, 2020. It encompasses both legitimate and fraudulent transactions, offering a valuable resource for fraud detection analysis. The dataset features transactions from 1,000 customers engaging with around 800 distinct merchants, providing a realistic and diverse environment for our investigation.
 
-This dataset comprises credit card transactions conducted by European cardholders in the year 2023. It encompasses an extensive dataset of over 550,000 records, carefully anonymized to protect the privacy and identities of the cardholders. The primary purpose of curating this dataset is to provide a valuable resource for the development of fraud detection algorithms and models, enabling the identification of potentially deceptive transactions.
+### 🔑Key Dataset Features
+The dataset includes essential features for analysis:
 
-### Key Features
+- **Timestamp (Time)**: Each transaction is timestamped, enabling time-based pattern analysis.
+- **Merchant Details**: Comprehensive information about the involved merchants, shedding light on transaction origins.
+- **Transaction Categories**: Transactions are categorized, allowing insights into the nature of purchases.
+- **Transaction Amount**: The monetary value of each transaction is provided, a crucial element for analysis.
+- **Credit Card Holder Information**: Personal data about credit card holders, encompassing names, genders, locations, and birthdays.
+- **Fraud Indicator (is_fraud)**: A binary flag (1 for fraudulent transactions, 0 for legitimate ones) guides our efforts to identify fraudulent activities.
 
-- **id**: A unique identifier assigned to each transaction.
-- **V1-V28**: A set of anonymized features that encapsulate diverse transaction attributes such as time, location, and more.
-- **Amount**: Denoting the transaction value.
-- **Class**: A binary label, distinguishing transactions as either fraudulent (1) or legitimate (0).
+### 📂 Data Source
+This dataset was generated using the Sparkov Data Generation tool, available on GitHub, developed by Brandon Harris. This tool allowed us to simulate transactions covering the period from January 1st, 2019, to December 31st, 2020. The generated data files were meticulously combined and transformed into a standardized format.
+
+### 🧹 Data Quality
+The dataset is meticulously prepared, with no missing values, ensuring the integrity of our analysis. Additionally, any duplicated entries have been removed to maintain data accuracy.
+This data preparation provides a reliable foundation for our analysis of fraudulent activities within credit card transactions.
+
+
+
 
 
 ## 🏠 Dataset Link
@@ -53,6 +59,23 @@ Explore the correlation between the anonymized features (V1-V28) and the occurre
 Investigate whether location-related attributes (if available) exhibit patterns in fraud occurrences.
 
 ### 5. Are there any common trends or characteristics shared among fraudulent transactions in this dataset?
+
+1. 📊 **Question**: What is the distribution of transaction amounts, and are there any unusual patterns?
+   - **Method**: Create a histogram or box plot to visualize the distribution of transaction amounts.
+
+2. 🕒 **Question**: Is there a temporal pattern to fraudulent transactions (e.g., certain days of the week or times of day)?
+   - **Method**: Use a time series line chart to visualize the number of fraudulent transactions over time.
+
+3. 🏪 **Question**: Are there specific merchant categories more prone to fraudulent activity?
+   - **Method**: Develop a bar chart showing the number of fraudulent transactions by merchant category.
+
+4. 🌍 **Question**: Do certain features, such as location or gender, correlate with fraud?
+   - **Method**: Perform correlation analysis and visualize correlations using a heatmap.
+
+5. 📈 **Question**: Can we forecast the potential increase in fraud based on historical data trends?
+   - **Method**: Use time series forecasting techniques, such as ARIMA or Prophet, to predict future fraud trends. Display these forecasts in the dashboard.
+
+These questions can provide valuable insights into fraud detection, and the methods mentioned will help in answering them effectively through graphs, modeling, and forecasting in the dashboard.
 
 
 ## 📊Results
