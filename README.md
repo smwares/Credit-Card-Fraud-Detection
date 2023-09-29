@@ -6,6 +6,22 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/fursuf1/Credit-Card-Fraud-Detection)
 [![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=for-the-badge)](https://code.visualstudio.com/)
 
+**Table of Contents**
+- [💳Credit Card Fraud Detection](#credit-card-fraud-detection)
+- [📊🚧Project Overview](#project-overview)
+- [📈About the Dataset](#about-the-dataset)
+  - [📝 Description](#description)
+  - [🔑Key Dataset Features](#key-dataset-features)
+  - [📂 Data Source](#data-source)
+  - [🧹 Data Quality](#data-quality)
+- [🏠 Dataset Link](#dataset-link)
+- [❓Questions for Analysis](#questions-for-analysis)
+- [📊Results](#results)
+- [📓 Authors](#authors)
+- [🚀 About Me](#about-me)
+- [🌟References](#references)
+
+
 ## 📊🚧Project Overview
 
 In this analysis, we delve into the Credit Card Transactions Fraud Detection Dataset. Our primary goal is to conduct exploratory data analysis (EDA) to identify essential features associated with fraudulent activities. Subsequently, we will employ forecasting techniques using various charts and graphs to gain insights from the data and predict trends. Additionally, we will evaluate the effectiveness of our forecasting in detecting fraud. To ensure a seamless presentation of our insights, we will construct an interactive dashboard, providing a comprehensive view of credit card transaction fraud detection.
