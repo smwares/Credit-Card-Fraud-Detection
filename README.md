@@ -42,41 +42,34 @@ This data preparation provides a reliable foundation for our analysis of fraudul
 
 ## ❓Questions for Analysis
 
-### 1. What is the distribution of transaction amounts in fraudulent vs. legitimate transactions?
+### 1️⃣ **Question**: What is the distribution of transaction amounts in fraudulent vs. legitimate transactions?
+   - **Method**: Analyze the transaction amounts and create visualizations to compare distributions between fraudulent and legitimate transactions.
 
-Consider examining how transaction amounts differ between fraudulent and legitimate transactions.
+### 2️⃣ **Question**: Are there specific time patterns when fraudulent transactions are more likely to occur?
+   - **Method**: Analyze the timestamp data to identify any time patterns associated with fraudulent transactions.
 
-### 2. Are there specific time patterns when fraudulent transactions are more likely to occur?
+### 3️⃣ **Question**: Can you identify any geographical patterns in fraud occurrences based on transaction attributes?
+   - **Method**: Investigate whether location-related attributes (if available) exhibit patterns in fraud occurrences.
 
-Analyze the timestamp data to identify any time patterns associated with fraudulent transactions.
+### 4️⃣ **Question**: Are there any common trends or characteristics shared among fraudulent transactions in this dataset?
+   - **Method**: Investigate commonalities among fraudulent transactions to identify any recurring trends or characteristics.
 
-### 3. Do certain anonymized features (V1-V28) have a stronger correlation with fraud?
-
-Explore the correlation between the anonymized features (V1-V28) and the occurrence of fraud.
-
-### 4. Can you identify any geographical patterns in fraud occurrences based on transaction attributes?
-
-Investigate whether location-related attributes (if available) exhibit patterns in fraud occurrences.
-
-### 5. Are there any common trends or characteristics shared among fraudulent transactions in this dataset?
-
-
-1. ### 📊 **Question**: What is the distribution of transaction amounts, and are there any unusual patterns?
-   - **Method**: Create a histogram or box plot to visualize the distribution of transaction amounts.
-
-2. ### 🕒 **Question**: Is there a temporal pattern to fraudulent transactions (e.g., certain days of the week or times of day)?
-   - **Method**: Use a time series line chart to visualize the number of fraudulent transactions over time.
-
-3. ### 🏪 **Question**: Are there specific merchant categories more prone to fraudulent activity?
-   - **Method**: Develop a bar chart showing the number of fraudulent transactions by merchant category.
-
-4. ### 🌍 **Question**: Do certain features, such as location or gender, correlate with fraud?
+### 5️⃣ **Question**: Do certain features, such as location or gender, correlate with fraud?
    - **Method**: Perform correlation analysis and visualize correlations using a heatmap.
 
-5. ### 📈 **Question**: Can we forecast the potential increase in fraud based on historical data trends?
+### 6️⃣ **Question**: What is the distribution of transaction amounts, and are there any unusual patterns?
+   - **Method**: Create a histogram or box plot to visualize the distribution of transaction amounts.
+
+### 7️⃣ **Question**: Is there a temporal pattern to fraudulent transactions (e.g., certain days of the week or times of day)?
+   - **Method**: Use a time series line chart to visualize the number of fraudulent transactions over time.
+
+### 8️⃣ **Question**: Are there specific merchant categories more prone to fraudulent activity?
+   - **Method**: Develop a bar chart showing the number of fraudulent transactions by merchant category.
+
+### 9️⃣ **Question**: Can we forecast the potential increase in fraud based on historical data trends?
    - **Method**: Use time series forecasting techniques, such as ARIMA or Prophet, to predict future fraud trends. Display these forecasts in the dashboard.
 
-These questions can provide valuable insights into fraud detection, and the methods mentioned will help in answering them effectively through graphs, modeling, and forecasting in the dashboard.
+These questions, along with the specified methods, will help uncover valuable insights into fraud detection through data analysis, modeling, and forecasting.
 
 ## 📊Results
 
