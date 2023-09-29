@@ -1,0 +1,42 @@
+Data clean-up:
+
+- Check for nulls
+- Check for duplicates
+
+EDA:
+
+- Histograms of the whole dataset
+- One set of histograms for the dataset with only valid transactions
+- One set of histograms for the dataset with only fraudulent transactions
+- Scatter-plots each feature VS Class
+- Correlation heat map
+
+Modeling:
+
+- Objective should be reduce the false positive rate (i.e. model mistakenly thinking a fraudulent transaction is legitimate)
+- Logistic regression (also explain why it may not work due to multiple features having collinearity)
+	- Using Newton-CG as the solver gave better results than liblinear
+	- Try test sets at different sizes? (0.2, 0.1, 0.05)
+	- Plot heat map of confusion matrix
+	- Calculate accuracy, error rate, sensitivity and specificity, etc
+- Scale the data using standard scaler
+	- Try K-means clustering?
+- RoC curve?
+
+Presentation:
+
+- Briefly explain question being asked, then how we're modeling to answer it
+- Include graphs from EDA to show some visual differences between transactions that is valid and transactions that are fraudulent
+- Also show visualization of heat map of correlation matrix
+- Briefly explain classification methods used
+- Show heat map of confusion matrix and accuracy results (i.e. specificity, recall, etc) and explain what they mean
+- Conclude and talk about potential work in future (using advanced DS methods like gradient boost, random forest, decision trees, etc)
+
+Additional notes to look into:
+
+hyper-parameter
+XG boost, random forest, decision trees
+cross-validation
+grid-search
+PCA
+binary classification histograms
