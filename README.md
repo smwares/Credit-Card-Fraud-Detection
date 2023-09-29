@@ -98,6 +98,12 @@ These questions, along with the specified methods, will help uncover valuable in
 
 ## 🚀 About Me
 
+**Talking about Personal Stuffs:**
+
+- 👨‍🏛 I am currently a student of **LHL**.
+- 🌱 I'm currently learning **Data Sciences**. 
+- 💬 If you have any questions, **just ask me**.
+
 ## 🌟References
 
 
