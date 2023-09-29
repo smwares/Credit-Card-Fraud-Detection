@@ -60,23 +60,23 @@ Investigate whether location-related attributes (if available) exhibit patterns 
 
 ### 5. Are there any common trends or characteristics shared among fraudulent transactions in this dataset?
 
-1. 📊 **Question**: What is the distribution of transaction amounts, and are there any unusual patterns?
+
+1. ## 📊 **Question**: What is the distribution of transaction amounts, and are there any unusual patterns?
    - **Method**: Create a histogram or box plot to visualize the distribution of transaction amounts.
 
-2. 🕒 **Question**: Is there a temporal pattern to fraudulent transactions (e.g., certain days of the week or times of day)?
+2. ## 🕒 **Question**: Is there a temporal pattern to fraudulent transactions (e.g., certain days of the week or times of day)?
    - **Method**: Use a time series line chart to visualize the number of fraudulent transactions over time.
 
-3. 🏪 **Question**: Are there specific merchant categories more prone to fraudulent activity?
+3. ## 🏪 **Question**: Are there specific merchant categories more prone to fraudulent activity?
    - **Method**: Develop a bar chart showing the number of fraudulent transactions by merchant category.
 
-4. 🌍 **Question**: Do certain features, such as location or gender, correlate with fraud?
+4. ## 🌍 **Question**: Do certain features, such as location or gender, correlate with fraud?
    - **Method**: Perform correlation analysis and visualize correlations using a heatmap.
 
-5. 📈 **Question**: Can we forecast the potential increase in fraud based on historical data trends?
+5. ## 📈 **Question**: Can we forecast the potential increase in fraud based on historical data trends?
    - **Method**: Use time series forecasting techniques, such as ARIMA or Prophet, to predict future fraud trends. Display these forecasts in the dashboard.
 
 These questions can provide valuable insights into fraud detection, and the methods mentioned will help in answering them effectively through graphs, modeling, and forecasting in the dashboard.
-
 
 ## 📊Results
 
