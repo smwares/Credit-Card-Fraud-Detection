@@ -84,7 +84,7 @@ This data preparation provides a reliable foundation for our analysis of fraudul
    - **Method**: Develop a bar chart showing the number of fraudulent transactions by merchant category.
 
 ### 9️⃣ **Question**: Can we forecast the potential increase in fraud based on historical data trends?
-   - **Method**: Use time series forecasting techniques, such as ARIMA or Prophet, to predict future fraud trends. Display these forecasts in the dashboard.
+   - **Method**: Use time series forecasting techniques, to predict future fraud trends. Display these forecasts in the dashboard.
 
 These questions, along with the specified methods, will help uncover valuable insights into fraud detection through data analysis, modeling, and forecasting.
 
