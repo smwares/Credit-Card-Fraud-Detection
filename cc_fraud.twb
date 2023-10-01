@@ -2318,8 +2318,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='27' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='26' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='29' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='28' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='93875' id='3' is-fixed='true' is-scaled='1' param='C:/Downloads/Chrome/DS/Git/Credit-Card-Fraud-Detection/Pictures/Confusion matrix and prediction.png' type-v2='bitmap' w='96100' x='1600' y='2250'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2352,8 +2352,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='25' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='24' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='27' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='26' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='92500' id='3' is-fixed='true' is-scaled='1' param='C:/Downloads/Chrome/DS/Git/Credit-Card-Fraud-Detection/Pictures/Data set describe.png' type-v2='bitmap' w='97100' x='2000' y='5500'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2458,8 +2458,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1300' minheight='1300' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='79' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98426' id='78' param='vert' type-v2='layout-flow' w='99064' x='468' y='787'>
+            <zone h='100000' id='81' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98426' id='80' param='vert' type-v2='layout-flow' w='99064' x='468' y='787'>
                 <zone fixed-size='280' h='49213' id='3' is-fixed='true' name='Fraud by Name' w='44855' x='468' y='787'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2537,8 +2537,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='29' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='28' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='31' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='30' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='92250' id='3' is-fixed='true' is-scaled='1' param='C:/Downloads/Chrome/DS/Git/Credit-Card-Fraud-Detection/Pictures/Heatmap.png' type-v2='bitmap' w='96400' x='2400' y='6375'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2572,8 +2572,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='22' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='21' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='24' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='23' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='51500' id='3' is-fixed='true' is-scaled='1' param='C:/Downloads/Chrome/DS/Git/Credit-Card-Fraud-Detection/Pictures/histograms.png' type-v2='bitmap' w='98300' x='600' y='2500'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2761,8 +2761,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1900' minheight='1900' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='88' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98250' id='87' param='vert' type-v2='layout-flow' w='99064' x='468' y='875'>
+            <zone h='100000' id='90' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98250' id='89' param='vert' type-v2='layout-flow' w='99064' x='468' y='875'>
                 <zone fixed-size='54' h='6805' id='18' is-fixed='true' name='Name' show-title='false' w='99064' x='468' y='4330'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2921,8 +2921,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='27' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='26' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='29' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='28' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='93750' id='3' is-fixed='true' is-scaled='1' param='C:/Downloads/Chrome/DS/Git/Credit-Card-Fraud-Detection/Pictures/Logit Regression Results.png' type-v2='bitmap' w='94900' x='4100' y='4000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2955,8 +2955,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='18' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='21' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='20' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='90375' id='3' is-fixed='true' is-scaled='1' param='C:/Downloads/Chrome/DS/Git/Credit-Card-Fraud-Detection/Pictures/Main Pic.jpg' type-v2='bitmap' w='93200' x='5900' y='7000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3084,7 +3084,7 @@ Not able to get better results</run>
             <run bold='true' fontcolor='#000000' fontname='Arial Black' fontsize='20'>Not able to get better results</run>
           </formatted-text>
         </zone>
-        <zone flipboard-zone-id='5' forceUpdate='true' h='15354' id='13' story-point-id='24' type-v2='text' w='33293' x='33721' y='40453'>
+        <zone flipboard-zone-id='5' forceUpdate='true' h='15354' id='13' story-point-id='24' type-v2='text' w='33293' x='38556' y='35138'>
           <formatted-text>
             <run bold='true' fontcolor='#000000' fontname='Arial Black' fontsize='20'>Need to create instructions for users to interact with the dashboard.
 
@@ -3106,8 +3106,8 @@ Summarize the outcome
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='9' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='8' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='11' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='10' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='98000' id='3' is-fixed='true' is-scaled='1' param='C:/Downloads/Chrome/DS/Git/Credit-Card-Fraud-Detection/Pictures/Questions.png' type-v2='bitmap' w='98000' x='900' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -8977,77 +8977,63 @@ Summarize the outcome
     </thumbnail>
     <thumbnail height='192' name='Presentation' width='192'>
       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
-      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
+      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
     </thumbnail>
     <thumbnail height='192' name='Questions' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
