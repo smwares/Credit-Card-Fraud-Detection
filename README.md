@@ -68,23 +68,17 @@ This data preparation provides a reliable foundation for our analysis of fraudul
 ### 3️⃣ **Question**: Can you identify any geographical patterns in fraud occurrences based on transaction attributes?
    - **Method**: Investigate whether location-related attributes (if available) exhibit patterns in fraud occurrences.
 
-### 4️⃣ **Question**: Are there any common trends or characteristics shared among fraudulent transactions in this dataset?
-   - **Method**: Investigate commonalities among fraudulent transactions to identify any recurring trends or characteristics.
-
-### 5️⃣ **Question**: Do certain features, such as location or gender, correlate with fraud?
+### 4️⃣ **Question**: Do certain features, such as location or gender, correlate with fraud?
    - **Method**: Perform correlation analysis and visualize correlations using a heatmap.
 
-### 6️⃣ **Question**: What is the distribution of transaction amounts, and are there any unusual patterns?
+### 5️⃣ **Question**: What is the distribution of transaction amounts, and are there any unusual patterns?
    - **Method**: Create a histogram or box plot to visualize the distribution of transaction amounts.
 
-### 7️⃣ **Question**: Is there a temporal pattern to fraudulent transactions (e.g., certain days of the week or times of day)?
+### 6️⃣ **Question**: Is there a temporal pattern to fraudulent transactions (e.g., certain days of the week or times of day)?
    - **Method**: Use a time series line chart to visualize the number of fraudulent transactions over time.
 
-### 8️⃣ **Question**: Are there specific merchant categories more prone to fraudulent activity?
+### 7️⃣ **Question**: Are there specific merchant categories more prone to fraudulent activity?
    - **Method**: Develop a bar chart showing the number of fraudulent transactions by merchant category.
-
-### 9️⃣ **Question**: Can we forecast the potential increase in fraud based on historical data trends?
-   - **Method**: Use time series forecasting techniques, to predict future fraud trends. Display these forecasts in the dashboard.
 
 These questions, along with the specified methods, will help uncover valuable insights into fraud detection through data analysis, modeling, and forecasting.
 
