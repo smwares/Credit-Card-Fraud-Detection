@@ -33,17 +33,22 @@ In this analysis, we delve into the Credit Card Transactions Fraud Detection Dat
 ## 📈About the Dataset
 
 ### 📝 Description
-This dataset provides a comprehensive log of credit card transactions spanning from January 1st, 2019, to December 31st, 2020. It encompasses both legitimate and fraudulent transactions, offering a valuable resource for fraud detection analysis. The dataset features transactions from 1,000 customers engaging with around 800 distinct merchants, providing a realistic and diverse environment for our investigation.
+
+- This dataset is comprehensive log of simulated credit card transactions with over 1.85 million entries, providing a realistic and diverse environment (and thus valuable) for our investigation.
+- The transactions span from January 1st, 2019 to December 31st, 2020 and encompasses both legitimate and fraudulent transactions.
+- The dataset features transactions by 1,000 customers in over 900 cities all across the US engaging with around 700 distinct merchants.
+- The purchases are categorized in 14 different categories and the amount spent ranges from as little as $1 to as much as $29,000.
+- Only 9651 of the 1.85 million transactions (0.52%) were fraudulent.
 
 ### 🔑Key Dataset Features
 The dataset includes essential features for analysis:
 
 - **Timestamp (Time)**: Each transaction is timestamped, enabling time-based pattern analysis.
-- **Merchant Details**: Comprehensive information about the involved merchants, shedding light on transaction origins.
-- **Transaction Categories**: Transactions are categorized, allowing insights into the nature of purchases.
-- **Transaction Amount**: The monetary value of each transaction is provided, a crucial element for analysis.
-- **Credit Card Holder Information**: Personal data about credit card holders, encompassing names, genders, locations, and birthdays.
-- **Fraud Indicator (is_fraud)**: A binary flag (1 for fraudulent transactions, 0 for legitimate ones) guides our efforts to identify fraudulent activities.
+- **Merchant Details**: Name of merchant and geolocations (i.e. latitude & longitude).
+- **Transaction Categories**: Category of the type of product purchased.
+- **Transaction Amount**: How much was spent for each transaction.
+- **Credit Card Holder Information**: Names, gender, dates of birth, addresses, CC numbers.
+- **Fraud Indicator (is_fraud)**: A binary flag (1 for fraudulent transactions, 0 for legitimate).
 
 ### 📂 Data Source
 This dataset was generated using the Sparkov Data Generation tool, available on GitHub, developed by Brandon Harris. This tool allowed us to simulate transactions covering the period from January 1st, 2019, to December 31st, 2020. The generated data files were meticulously combined and transformed into a standardized format.
@@ -97,13 +102,11 @@ However, due to the dataset's scarcity of fraudulent instances and the intricate
 
 ## 🚀 About Me
 
-**Talking about Personal Stuffs:**
+**🌟Talking about Personal Stuffs:**
 
 - 👨‍🏛 I am currently a student of **LHL**.
 - 🌱 I'm currently learning **Data Sciences**. 
 - 💬 If you have any questions, **just ask me**.
-
-## 🌟References
 
 
 
