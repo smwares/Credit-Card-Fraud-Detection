@@ -82,7 +82,12 @@ This data preparation provides a reliable foundation for our analysis of fraudul
 
 These questions, along with the specified methods, will help uncover valuable insights into fraud detection through data analysis, modeling, and forecasting.
 
-## 📊Results
+## 📊Conclusion:
+
+Fraudulent transactions displayed a noticeable trend, primarily occurring during specific periods, typically a few hours before and after midnight.
+These fraudulent transactions were characterized by notably lower spending amounts.
+Many other transaction patterns resembled those of legitimate transactions.
+However, due to the dataset's scarcity of fraudulent instances and the intricate nature of the patterns, employing advanced modeling techniques like random forest is imperative for effective classification.
 
 ## 📓 Authors
 
