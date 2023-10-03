@@ -108,6 +108,9 @@ However, due to the dataset's scarcity of fraudulent instances and the intricate
 - 🌱 I'm currently learning **Data Sciences**. 
 - 💬 If you have any questions, **just ask me**.
 
+## 🔍 References
+[CSV FILE](https://www.mediafire.com/file/4olkuu3ehwoihgl/fraud_cleaned.csv/file)
+
 
 
 
